@@ -1,0 +1,482 @@
+src/API/graphics/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/Cell.java:3:	CommentRequired: Class comments are required
+src/API/graphics/Cell.java:3:	CommentRequired: Class comments are required
+src/API/graphics/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/API/graphics/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/API/graphics/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/Cell.java:4:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:4:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:4:	ImmutableField: Private field 'maxLength' could be made final; it is only initialized in the declaration or constructor.
+src/API/graphics/Cell.java:4:	ImmutableField: Private field 'maxLength' could be made final; it is only initialized in the declaration or constructor.
+src/API/graphics/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/Cell.java:5:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:5:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:5:	ImmutableField: Private field 'maxWidth' could be made final; it is only initialized in the declaration or constructor.
+src/API/graphics/Cell.java:5:	ImmutableField: Private field 'maxWidth' could be made final; it is only initialized in the declaration or constructor.
+src/API/graphics/Cell.java:6:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:6:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:7:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:7:	CommentRequired: Field comments are required
+src/API/graphics/Cell.java:9:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:9:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/API/graphics/Cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/API/graphics/Cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/API/graphics/Cell.java:9:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/API/graphics/Cell.java:15:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:15:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:15:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:15:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:20:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/API/graphics/Cell.java:20:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/API/graphics/Cell.java:20:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/API/graphics/Cell.java:20:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/API/graphics/Cell.java:20:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/API/graphics/Cell.java:20:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/API/graphics/Cell.java:25:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/API/graphics/Cell.java:25:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/API/graphics/Cell.java:27:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:27:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/API/graphics/Cell.java:27:	ShortVariable: Avoid variables with short names like i
+src/API/graphics/Cell.java:27:	ShortVariable: Avoid variables with short names like i
+src/API/graphics/Cell.java:27:	ShortVariable: Avoid variables with short names like j
+src/API/graphics/Cell.java:27:	ShortVariable: Avoid variables with short names like j
+src/API/graphics/Cell.java:31:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:31:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/API/graphics/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/API/graphics/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/API/graphics/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/API/graphics/Cell.java:31:	ShortVariable: Avoid variables with short names like i
+src/API/graphics/Cell.java:31:	ShortVariable: Avoid variables with short names like i
+src/API/graphics/Cell.java:31:	ShortVariable: Avoid variables with short names like j
+src/API/graphics/Cell.java:31:	ShortVariable: Avoid variables with short names like j
+src/API/graphics/Cell.java:35:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/API/graphics/Cell.java:35:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/API/graphics/Cell.java:44:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:44:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:45:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:45:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:45:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:45:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:46:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:46:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:46:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:46:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:51:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:51:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:52:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:52:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:52:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:52:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:53:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:53:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:53:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:53:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:58:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:58:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'64').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'64').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'67').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'67').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'70').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'70').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '59'-'76').
+src/API/graphics/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '59'-'76').
+src/API/graphics/Cell.java:60:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:60:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:60:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:60:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:61:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:61:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:61:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:61:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:62:	MissingBreakInSwitch: A switch statement does not contain a break
+src/API/graphics/Cell.java:62:	MissingBreakInSwitch: A switch statement does not contain a break
+src/API/graphics/Cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'76').
+src/API/graphics/Cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'76').
+src/API/graphics/Cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'76').
+src/API/graphics/Cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'76').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'64').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'64').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'67').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'67').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'70').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'70').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '70'-'76').
+src/API/graphics/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '70'-'76').
+src/API/graphics/Cell.java:72:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:72:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:72:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:72:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:73:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:73:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:73:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:73:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:78:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:78:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/API/graphics/Cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/API/graphics/Cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/API/graphics/Cell.java:78:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/API/graphics/Cell.java:78:	ShortVariable: Avoid variables with short names like i1
+src/API/graphics/Cell.java:78:	ShortVariable: Avoid variables with short names like i1
+src/API/graphics/Cell.java:78:	ShortVariable: Avoid variables with short names like j1
+src/API/graphics/Cell.java:78:	ShortVariable: Avoid variables with short names like j1
+src/API/graphics/Cell.java:83:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:83:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:83:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:83:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:84:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:84:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:84:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:84:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:89:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:89:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/API/graphics/Cell.java:89:	ShortVariable: Avoid variables with short names like i1
+src/API/graphics/Cell.java:89:	ShortVariable: Avoid variables with short names like i1
+src/API/graphics/Cell.java:89:	ShortVariable: Avoid variables with short names like j1
+src/API/graphics/Cell.java:89:	ShortVariable: Avoid variables with short names like j1
+src/API/graphics/Cell.java:92:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/Cell.java:92:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/Cell.java:93:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:93:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:93:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:93:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:94:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:94:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:94:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:94:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:100:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/Cell.java:100:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/Cell.java:101:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:101:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:101:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:101:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:102:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:102:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:102:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:102:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:111:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:111:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:111:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:111:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:112:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:112:	ControlStatementBraces: This statement should have braces
+src/API/graphics/Cell.java:112:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/Cell.java:112:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/CellTest.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/CellTest.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/CellTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/API/graphics/CellTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/API/graphics/CellTest.java:9:	CommentRequired: Class comments are required
+src/API/graphics/CellTest.java:9:	CommentRequired: Class comments are required
+src/API/graphics/CellTest.java:10:	CommentRequired: Field comments are required
+src/API/graphics/CellTest.java:10:	CommentRequired: Field comments are required
+src/API/graphics/CellTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:16:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:16:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:16:	UncommentedEmptyMethodBody: Document empty method body
+src/API/graphics/CellTest.java:16:	UncommentedEmptyMethodBody: Document empty method body
+src/API/graphics/CellTest.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:21:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:21:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:21:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/CellTest.java:25:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:25:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:25:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/API/graphics/CellTest.java:25:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/API/graphics/CellTest.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:29:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:29:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:33:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:33:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:33:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/API/graphics/CellTest.java:33:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/API/graphics/CellTest.java:34:	LocalVariableCouldBeFinal: Local variable 'state' could be declared final
+src/API/graphics/CellTest.java:34:	LocalVariableCouldBeFinal: Local variable 'state' could be declared final
+src/API/graphics/CellTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:41:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:41:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:49:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:49:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:50:	LocalVariableCouldBeFinal: Local variable 'state' could be declared final
+src/API/graphics/CellTest.java:50:	LocalVariableCouldBeFinal: Local variable 'state' could be declared final
+src/API/graphics/CellTest.java:53:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:53:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/API/graphics/CellTest.java:56:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/CellTest.java:56:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/GUI.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/GUI.java:7:	CommentRequired: Class comments are required
+src/API/graphics/GUI.java:7:	CommentRequired: Class comments are required
+src/API/graphics/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/API/graphics/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/API/graphics/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/API/graphics/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/API/graphics/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/API/graphics/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/API/graphics/GUI.java:7:	StdCyclomaticComplexity: The class 'GUI' has a Standard Cyclomatic Complexity of 4 (Highest = 21).
+src/API/graphics/GUI.java:7:	StdCyclomaticComplexity: The class 'GUI' has a Standard Cyclomatic Complexity of 4 (Highest = 21).
+src/API/graphics/GUI.java:8:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:8:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:9:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:9:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:10:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:10:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:11:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:11:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:12:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:12:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:13:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:13:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/API/graphics/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:14:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:14:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:14:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:14:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:15:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:15:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:15:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:15:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:16:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:16:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:17:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:17:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/API/graphics/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/API/graphics/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/API/graphics/GUI.java:18:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:18:	CommentRequired: Field comments are required
+src/API/graphics/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/API/graphics/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/API/graphics/GUI.java:24:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:24:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:28:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:28:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:28:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/API/graphics/GUI.java:28:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/API/graphics/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/API/graphics/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/API/graphics/GUI.java:40:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:40:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:40:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/API/graphics/GUI.java:40:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/API/graphics/GUI.java:40:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/API/graphics/GUI.java:40:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/API/graphics/GUI.java:40:	StdCyclomaticComplexity: The method 'initGUI' has a Standard Cyclomatic Complexity of 10.
+src/API/graphics/GUI.java:40:	StdCyclomaticComplexity: The method 'initGUI' has a Standard Cyclomatic Complexity of 10.
+src/API/graphics/GUI.java:50:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:50:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:51:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:51:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/API/graphics/GUI.java:63:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/API/graphics/GUI.java:63:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:64:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:65:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:71:	ControlStatementBraces: This statement should have braces
+src/API/graphics/GUI.java:71:	ControlStatementBraces: This statement should have braces
+src/API/graphics/GUI.java:71:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/GUI.java:71:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/GUI.java:77:	ControlStatementBraces: This statement should have braces
+src/API/graphics/GUI.java:77:	ControlStatementBraces: This statement should have braces
+src/API/graphics/GUI.java:77:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/GUI.java:77:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/API/graphics/GUI.java:83:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:83:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/API/graphics/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/API/graphics/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/API/graphics/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/API/graphics/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/API/graphics/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/API/graphics/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/API/graphics/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:131:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/API/graphics/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/API/graphics/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/API/graphics/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/API/graphics/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:141:	CyclomaticComplexity: The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 13.
+src/API/graphics/GUI.java:141:	CyclomaticComplexity: The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 13.
+src/API/graphics/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/API/graphics/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/API/graphics/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/API/graphics/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/API/graphics/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/API/graphics/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/API/graphics/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/API/graphics/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/API/graphics/GUI.java:141:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 21.
+src/API/graphics/GUI.java:141:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 21.
+src/API/graphics/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/API/graphics/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/API/graphics/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/API/graphics/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/API/graphics/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/API/graphics/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/API/graphics/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/API/graphics/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/API/graphics/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/API/graphics/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/API/graphics/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/API/graphics/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/API/graphics/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/API/graphics/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:238:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUI.java:240:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/API/graphics/GUITest.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/GUITest.java:1:	PackageCase: Package name contains upper case characters
+src/API/graphics/GUITest.java:9:	UnusedImports: Avoid unused imports such as 'javax.swing.JFrame'
+src/API/graphics/GUITest.java:9:	UnusedImports: Avoid unused imports such as 'javax.swing.JFrame'
+src/API/graphics/GUITest.java:11:	UnusedImports: Avoid unused imports such as 'junit.framework.TestCase'
+src/API/graphics/GUITest.java:11:	UnusedImports: Avoid unused imports such as 'junit.framework.TestCase'
+src/API/graphics/GUITest.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/API/graphics/GUITest.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/API/graphics/GUITest.java:17:	CommentRequired: Class comments are required
+src/API/graphics/GUITest.java:17:	CommentRequired: Class comments are required
+src/API/graphics/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:26:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:26:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:26:	UncommentedEmptyMethodBody: Document empty method body
+src/API/graphics/GUITest.java:26:	UncommentedEmptyMethodBody: Document empty method body
+src/API/graphics/GUITest.java:30:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:30:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:31:	AvoidDuplicateLiterals: The String literal "Not yet implemented" appears 4 times in this file; the first occurrence is on line 31
+src/API/graphics/GUITest.java:31:	AvoidDuplicateLiterals: The String literal "Not yet implemented" appears 4 times in this file; the first occurrence is on line 31
+src/API/graphics/GUITest.java:35:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:35:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:40:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:40:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:45:	CommentRequired: Public method and constructor comments are required
+src/API/graphics/GUITest.java:45:	CommentRequired: Public method and constructor comments are required
